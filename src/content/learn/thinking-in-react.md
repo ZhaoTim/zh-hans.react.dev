@@ -34,7 +34,7 @@ JSON API 返回如下的数据:
 
 <img src="/images/docs/s_thinking-in-react_ui.png" width="300" style={{margin: '0 auto'}} />
 
-仅需跟随下面的五步，即可使用 React 中实现 UI。
+仅需跟随下面的五步，即可使用 React 来实现 UI。
 
 ## 步骤一：将 UI 拆解为组件层级结构 {/*step-1-break-the-ui-into-a-component-hierarchy*/}
 
